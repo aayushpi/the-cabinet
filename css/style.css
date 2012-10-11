@@ -2,3 +2,31 @@ html {
 	height:100%; 
 	background:-webkit-gradient(radial, 50% 50%, 0, 50% 50%, 500, from(#5d5d5d), to(#0e0e0e)) no-repeat #a2d2ed;
 }
+
+/* Bottom Navigation */
+
+.navMain {
+	text-transform: uppercase;
+	font-family: Helvetica, sans-serif;
+	position: absolute;
+	bottom: 40px;
+	border-bottom: 2px solid #595959;
+	width: 100%;
+}
+
+.navMain a {
+	color: #fff;
+	text-decoration: none;
+
+}
+
+.navMain ul li {
+	list-style-type: none;
+	display: inline;
+	padding-right: 20px;
+
+}
+
+.navMain a:hover {
+	color: #f6f90c;
+}
