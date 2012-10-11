@@ -1,4 +1,4 @@
 html {
 	height:100%; 
-	background:-webkit-gradient(ellipse, 50% 50%, 0, 50% 50%, 500, from(#5d5d5d), to(#0e0e0e)) no-repeat #5d5d5d;
+	background:-webkit-gradient(radial, 50% 50%, 0, 50% 50%, 500, from(#5d5d5d), to(#0e0e0e)) no-repeat #a2d2ed;
 }
