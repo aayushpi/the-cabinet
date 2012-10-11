@@ -8,11 +8,14 @@ body{
 	padding: 0;
 }
 
+<<<<<<< HEAD
 #main{
 	width: 960px;
 	margin: 0 auto;
 }
 
+=======
+>>>>>>> s
 img{
 	display: inline;
 }
@@ -52,6 +55,7 @@ img{
 	color: #f6f90c;
 }
 
+<<<<<<< HEAD
 /* Video Content */
 
 video{
@@ -61,3 +65,46 @@ video{
 	border: 7px solid #ccc;
 	
 }
+=======
+
+
+/* CONTACT PAGE */
+	/* submit */
+
+#submit input {
+ height: 100px;
+ border: solid 1px #d8e3e8;
+ background: #fff;
+ padding: 0;
+ box-sizing: border-box;
+}
+
+#submit input [type=text] {
+  width:155px;   
+  float: left;
+}
+
+#submit input [type=submit] {
+  font-family: "Helvetica";
+  padding: 0;
+  font-size: 75%;
+  width: 59px;
+  color:#90989b;
+  float: right;
+  text-transform: uppercase;
+}
+
+#textArea h1{
+	font-family: "Helvetica";
+	text-transform: uppercase;
+	color: #f6f90c;	
+	width: 300px;
+}
+
+#textArea p{
+	font-family: "Helvetica";
+	text-transform: italic;
+	color: #fff;	
+	width: 300px;
+}
+>>>>>>> s
